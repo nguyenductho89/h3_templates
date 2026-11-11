@@ -5,5 +5,6 @@ Thư viện mẫu prompt MiniMax H3 (xem trang: https://nguyenductho89.github.io
 - `index.html` — trang tĩnh, dữ liệu nhúng sẵn.
 - `media/` — video/ảnh mẫu đã nén; chỉ có cho một phần template. Nguồn và bản quyền: `media/SOURCES.md`.
 - `media-sources.json` — URL gốc của từng media.
+- `MISSING_MEDIA.md` — danh sách template còn thiếu media, để bổ sung sau.
 
 Bản quyền video/ảnh/prompt thuộc tác giả và nguồn gốc (pixo.video, fal.ai, MiniMax, apimodels.app, tác giả trên X). Nếu bạn là chủ sở hữu và muốn gỡ, hãy mở issue.
